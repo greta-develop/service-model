@@ -1,4 +1,4 @@
-# GRETA
+<img src="https://raw.githubusercontent.com/StopDragon/greta-service-model/master/greta%20logo.png" width="200"><br>
 
 ## Team Introduce
 - idiot-brothers
