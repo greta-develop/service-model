@@ -31,6 +31,8 @@
 ![Prototype design2](https://raw.githubusercontent.com/StopDragon/greta-service-model/master/screenshot/list.png)
 <br>
 ![Prototype design3](https://raw.githubusercontent.com/StopDragon/greta-service-model/master/screenshot/list%20menu.png)
+<br>
+![Prototype design4](https://raw.githubusercontent.com/StopDragon/greta-service-model/master/screenshot/flow.png)
 
 ## 4. Develop Plan
 
