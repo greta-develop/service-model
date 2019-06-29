@@ -5,7 +5,7 @@
 - members
     - Jung Jiyong (Creative Director and UX/UI Designer)
         - jiyong210@gmail.com
-    - Kin Mingeun (Backend Developer)
+    - Kim Mingeun (Backend Developer)
         - mingeun.k.k@gmail.com
     - Kim Yeongseo (Frontend Developer)
         - yskim@markany.com
@@ -22,7 +22,15 @@
 - 일반 사용자들이 무료로 이용할 수 있음
 - 모두가 언제나 장부를 조회할 수 있음
 - AI 로보어드바이저가 매달 리포트를 작성해주어 자금 운용에 도움을 받을 수 있음
-### 2.4. Competitiveness
+### 2.4. Service function
+- 계좌 등록 (KB_API로 유효성 검사)
+- KB_API를 이용하여 거래 내역 불러오기
+- AI를 활용하여 거래 내역 자동 감사
+- 영수증 첨부하기
+- 익명으로 답글 남기기
+- AI 로보어드바이저가 매달 리포트 작성하여 이메일 전송
+- 데이터 자체 수정이 불가능함으로 flow형식으로 알아보기 쉽게 사유, 등 정정 가능
+### 2.5. Competitiveness
 - 시중에 나와있는 경리 프로그램들은 유료, 그리고 대기업, 중소기업을 타겟으로 함. 반면 greta는 무료, 누구나 영리적인 목적만 아니면 사용가능
 - greta의 가장 큰 장점인 데이터 불가변성 때문에 타 프로그램과 달리 경리가 조작 불가능
 ## 3. Prototype design
@@ -34,5 +42,4 @@
 <br>
 ![Prototype design4](https://raw.githubusercontent.com/StopDragon/greta-service-model/master/screenshot/flow.png)
 
-## 4. Develop Plan
-
+## 4. Dev Mingeun
