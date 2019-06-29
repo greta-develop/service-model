@@ -33,7 +33,8 @@
 ### 2.5. Competitiveness
 - 시중에 나와있는 경리 프로그램들은 유료, 그리고 대기업, 중소기업을 타겟으로 함. 반면 greta는 무료, 누구나 영리적인 목적만 아니면 사용가능
 - greta의 가장 큰 장점인 데이터 불가변성 때문에 타 프로그램과 달리 경리가 조작 불가능
-## 3. Prototype design
+## 3. Design
+### 3.1. Prototype
 ![Prototype design1](https://raw.githubusercontent.com/StopDragon/greta-service-model/master/screenshot/log_in_page.png)
 <br>
 ![Prototype design2](https://raw.githubusercontent.com/StopDragon/greta-service-model/master/screenshot/list.png)
@@ -41,5 +42,8 @@
 ![Prototype design3](https://raw.githubusercontent.com/StopDragon/greta-service-model/master/screenshot/list%20menu.png)
 <br>
 ![Prototype design4](https://raw.githubusercontent.com/StopDragon/greta-service-model/master/screenshot/flow.png)
+
+### 3.2. Color
+![color_code](https://raw.githubusercontent.com/StopDragon/greta-service-model/master/source/color.png)
 
 ## 4. Dev Mingeun
