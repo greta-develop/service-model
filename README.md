@@ -35,13 +35,13 @@
 - greta의 가장 큰 장점인 데이터 불가변성 때문에 타 프로그램과 달리 경리가 조작 불가능
 ## 3. Design
 ### 3.1. Prototype
-![Prototype design1](https://raw.githubusercontent.com/StopDragon/greta-service-model/master/screenshot/log_in_page.png)
+![Prototype design1](https://raw.githubusercontent.com/StopDragon/greta-service-model/master/source/log_in_page.png)
 <br>
-![Prototype design2](https://raw.githubusercontent.com/StopDragon/greta-service-model/master/screenshot/list.png)
+![Prototype design2](https://raw.githubusercontent.com/StopDragon/greta-service-model/master/source/list.png)
 <br>
-![Prototype design3](https://raw.githubusercontent.com/StopDragon/greta-service-model/master/screenshot/list%20menu.png)
+![Prototype design3](https://raw.githubusercontent.com/StopDragon/greta-service-model/master/source/list%20menu.png)
 <br>
-![Prototype design4](https://raw.githubusercontent.com/StopDragon/greta-service-model/master/screenshot/flow.png)
+![Prototype design4](https://raw.githubusercontent.com/StopDragon/greta-service-model/master/source/flow.png)
 
 ### 3.2. Color
 ![color_code](https://raw.githubusercontent.com/StopDragon/greta-service-model/master/source/color.png)
