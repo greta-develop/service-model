@@ -1,8 +1,8 @@
 <img src="https://raw.githubusercontent.com/StopDragon/greta-service-model/master/logo/greta%20logo.png" width="200"><br>
 
 ## 1. Team Introduce
-- idiot-brothers
-- members
+- TEAM NAME: idiot-brothers
+- MEMBERS:
     - Jung Jiyong (Creative Director and UX/UI Designer)
         - jiyong210@gmail.com
     - Kim Mingeun (Backend Developer)
